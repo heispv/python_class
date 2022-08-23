@@ -17,3 +17,5 @@ You can find the files of the online class here:
 * [06_python_basics](https://github.com/heispv/python_class/blob/master/06_python_basics.ipynb) : As a programmer sometimes you may find it a bit challenging when you want to implement your knowledge into a program. I find it useful to first understand the problem very well and change it into an algorithm to understand what you are going to do exactly and also you should't forget your best friend, Google. In this session we talked about how to solve last session's problems and also practical ways of searching in the internet.
 
 * [07_python_basics](https://github.com/heispv/python_class/blob/master/07_python_basics.ipynb) : You don't need to write everything you need, it is why there are lots of libraries and packages available for python. In this session we talked about some packages and libraries in python and how to import them. Some searching techniques also exaplained during the class.
+
+*[08_python_basics]
