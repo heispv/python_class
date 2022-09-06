@@ -23,3 +23,5 @@ You can find the files of the online class here:
 * [09_python_basics](https://github.com/heispv/python_class/blob/master/09_python_basics.ipynb) : Rock, paper, scissors game explained. We also searched together in Matplotlib.pytplot documentation in order to find out how can we explore a library's documentation and apply them in our programming for the first time.
 
 * [10_python_basics](https://github.com/heispv/python_class/blob/master/10_python_basics.ipynb) : In this session we continued to talk about Matplotlib library and at the end we had a brief introduction to pandas library. Students should explore kaggle and w3schools to complete some courses and read some documentations.
+
+* [11_python_basics](https://github.com/heispv/python_class/blob/master/10_python_basics.ipynb) : In this session we started to talk about OOP and we discussed what are the benefits of this method. Some examples have been explained in the class and also a class assignment have been told to the students.
