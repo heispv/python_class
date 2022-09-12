@@ -4,7 +4,7 @@ You can find the files of the online class here:
 
 ## Table of Content
 
-* [01_python_basics](https://github.com/heispv/python_class/blob/master/01_python_basics.ipynb): In this session we talked about how can we install python and use it as a simple calculator, then we discussed about different types of variables and likes integers, floats, strings and boolians and how to use indexing in order to slice our data and use them later. Also started to talk about Lists which is going to be completed in the next session.
+* [01_python_basics](https://github.com/heispv/python_class/blob/master/01_python_basics.ipynb): During this session, we talked about installing Python and using it as a calculator. Then we discussed variables like integers, floats, strings, and booleans, and how to use indexing to slice our data. The next session will focus on lists, which have already begun.
 
 * [02_python_basics](https://github.com/heispv/python_class/blob/master/02_python_basics.ipynb): In this session we talked about Lists and their methods like append(), insert(), index(), count() etc. Also talked about Tuples and Dictionaries and their methods. Note that Dictionaries part will be finished in the next session.
 
@@ -24,4 +24,6 @@ You can find the files of the online class here:
 
 * [10_python_basics](https://github.com/heispv/python_class/blob/master/10_python_basics.ipynb) : In this session we continued to talk about Matplotlib library and at the end we had a brief introduction to pandas library. Students should explore kaggle and w3schools to complete some courses and read some documentations.
 
-* [11_python_basics](https://github.com/heispv/python_class/blob/master/10_python_basics.ipynb) : In this session we started to talk about OOP and we discussed what are the benefits of this method. Some examples have been explained in the class and also a class assignment have been told to the students.
+* [11_python_basics](https://github.com/heispv/python_class/blob/master/11_python_basics.ipynb) : In this session, we started to talk about OOP and its benefits. The class has provided some examples as well as a class assignment.
+
+* [12_python_basics](https://github.com/heispv/python_class/blob/master/12_python_basics.ipynb) : 
