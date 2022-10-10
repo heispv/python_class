@@ -28,6 +28,6 @@ You can find the files of the online class here:
 
 * [12_python_basics](https://github.com/heispv/python_class/blob/master/12_python_basics.ipynb) : In this session, we continued to talk about OOP programming. It was explained to the students how inheritance can be applied in a practical way as well as how to use it.
 
-* [13_python_basics](https://github.com/heispv/python_class/blob/master/13_python_basics.ipynb) : Almost every computer has the Minesweeper game on it. How about writing the game ourselves? The best way to solve this problem is to use OOP programming along with other methods we learned before, so we started writing the game in this session.
+* [13_python_basics](https://github.com/heispv/python_class/blob/master/13_python_basics.py) : Almost every computer has the Minesweeper game on it. How about writing the game ourselves? The best way to solve this problem is to use OOP programming along with other methods we learned before, so we started writing the game in this session.
 
-* [14_python_basics](https://github.com/heispv/python_class/blob/master/13_python_basics.ipynb) : We continued to implement the Minesweeper game using Python.
+* [14_python_basics](https://github.com/heispv/python_class/blob/master/14_python_basics.py) : We continued to implement the Minesweeper game using Python.
