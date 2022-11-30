@@ -20,7 +20,7 @@ You can find the files of the online class here:
 
 * [08_python_basics](https://github.com/heispv/python_class/blob/master/08_python_basics.ipynb) : In this session we talked about one the most popular libraries in python. Numpy is well-known python library which is used to work with arrays. Students should write a program to simulate rock, paper, scissors game.
 
-* [09_python_basics](https://github.com/heispv/python_class/blob/master/09_python_basics.ipynb) : Rock, paper, scissors game explained. We also searched together in Matplotlib.pytplot documentation in order to find out how can we explore a library's documentation and apply them in our programming for the first time.
+* [09_python_basics](https://github.com/heispv/python_class/blob/master/09_python_basics.ipynb) : Rock, paper, scissors game explained. We also searched in Matplotlib.pytplot documentation to find out how to explore a library's documentation and apply them in a program.
 
 * [10_python_basics](https://github.com/heispv/python_class/blob/master/10_python_basics.ipynb) : In this session we continued to talk about Matplotlib library and at the end we had a brief introduction to pandas library. Students should explore kaggle and w3schools to complete some courses and read some documentations.
 
